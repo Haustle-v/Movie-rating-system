@@ -1,5 +1,5 @@
 # Movie-rating-system
-It's an object-oriented course task of an anonymous SCUer, and we build a movie-rating system that is parallel to Douban Movie.
+It's an object-oriented course task of SCUers, and we build a movie-rating system that is parallel to Douban Movie.
 ## contributors: Fengshuo Y, Guangzhao T 
 
 ## 安装依赖
